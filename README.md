@@ -4,6 +4,11 @@
 
 This repository contains a collection of advanced system prompts designed for professional development, business strategy, and personal efficiency.
 
+## What's inside
+
+- **SYSTEMIC CAREER ARCHITECT** — a system prompt for a forensic career audit (copy-paste, or build an agent).
+- **petrovich/** — a Claude skill: «Петрович», a blunt, profane Russian everyman persona that gives brutally honest gut-feedback on ideas and products. ⚠️ explicit language, 18+.
+
 🚀** How to Use**
 
 You can utilize these prompts in two primary ways:
